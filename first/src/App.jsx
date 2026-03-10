@@ -18,7 +18,17 @@ function App() {
 
     
   return(
-      <h1>Piyush</h1>
+    <>
+
+    <div>
+
+      <h1>Hello this is example of component </h1>
+      <Example></Example>
+      <Demo></Demo>
+      </div>
+      
+
+      </>
     )
 
   }
@@ -26,4 +36,5 @@ function App() {
 
 
 }
+
 export default App
