@@ -6,35 +6,19 @@ import './App.css'
 function App() {
   
 
+
   return (
     <div>
-  <h1> First react project</h1>
-  <Employee></Employee>
-  </div>
+    
+        <button onclick="abc">click</button>
+        <h1>welcome in new project</h1>
+        
+    </div>
+
+    
+
   )
-
-  function Employee(){
-    
-
-    
-  return(
-    <>
-
-    <div>
-
-      <h1>Hello this is example of component </h1>
-      <Example></Example>
-      <Demo></Demo>
-      </div>
-      
-
-      </>
-    )
-
-  }
-
-
-
 }
+
 
 export default App
